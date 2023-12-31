@@ -8,3 +8,10 @@
 # Q&A
 
 # Audit scope
+
+
+[solver-vaults @ 4bdebbecb66e29ac18e5a5c9eda42e4cb44cdd65](https://github.com/SYMM-IO/solver-vaults/tree/4bdebbecb66e29ac18e5a5c9eda42e4cb44cdd65)
+- [solver-vaults/contracts/SolverVaultToken.sol](solver-vaults/contracts/SolverVaultToken.sol)
+- [solver-vaults/contracts/SolverVaults.sol](solver-vaults/contracts/SolverVaults.sol)
+
+
