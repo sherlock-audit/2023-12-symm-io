@@ -79,10 +79,6 @@ ___
 No
 ___
 
-### Q: Add links to relevant protocol resources
-
-___
-
 
 
 # Audit scope
